@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/uzair-ali10/Tensorflow-Notebooks-Examples?style=for-the-badge)
 
 # Tensorflow-Notebooks
-A bunch of Tensorflow notebooks in which I've implemented various kinds of algorithms and model optimization techniques
+A bunch of Tensorflow and keras notebooks in which I've implemented various kinds of algorithms and model optimization techniques 
 
 <img height=150 width=150 src="https://colab.research.google.com/img/colab_favicon_256px.png">
 
